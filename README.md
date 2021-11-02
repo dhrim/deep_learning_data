@@ -26,5 +26,5 @@
 - fashion_dataset.zip
 - uci_secom_dataset.zip
 - bladeDataset_original.zip
-
+- amazon_food_review.zip : Amazon 음식 리뷰 텍스트 데이터.
 
