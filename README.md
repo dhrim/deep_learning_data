@@ -5,6 +5,8 @@
 
 - dogs-cats.zip : 개와 고양이 영상 데이터. Keras 표준 포멧
 - dogs_cats_yolo_labeled.zip
+
+- dogs_prepared.tar.gz : 10개 개에 카테고리 영상. Keras 표준 폴더 구조
 <br>
 
 - car_regression.csv
