@@ -32,3 +32,5 @@
 - amazon_food_review.zip : Amazon 음식 리뷰 텍스트 데이터.
 - movie_rating.txt
 
+- flowers.zip : 5개 카테고리 분류 영상 데이터
+- flowers_prepared.zip : Keras 타입으로 준비된 5개 카테고리 분류 영상 데이터
