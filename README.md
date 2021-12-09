@@ -34,3 +34,5 @@
 
 - flowers.zip : 5개 카테고리 분류 영상 데이터
 - flowers_prepared.zip : Keras 타입으로 준비된 5개 카테고리 분류 영상 데이터
+
+- cat_face_keypoint.zip : 영상 회귀 데이터. n개의 포인트. bounding box가 dic에 담겨 있다. npy 파일 압축
