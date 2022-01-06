@@ -37,4 +37,5 @@
 
 - cat_face_keypoint.zip : 영상 회귀 데이터. n개의 포인트. bounding box가 dic에 담겨 있다. npy 파일 압축
 
-- Raccoon_yolov3_darknet_format.zip : YOLOv3 학습을 위한 Darknet 포멧의 영상과 레이블링
+- Raccoon_yolov3_darknet_format.zip : YOLOv3 학습을 위한 Darknet 포멧의 영상과 레이블
+- Raccoon_retinanet_format.zip : Keras-Retinanet 학습을 위한 RetianNet 포멧의 영상과 레이블
