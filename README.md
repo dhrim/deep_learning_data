@@ -43,3 +43,5 @@
 - commodity.zip : 20여 개의 csv. 속성 데이터. 일자 별 곡물의 시종고저가
 
 - google.csv : 구글 일자 별 주가. 
+
+- creditcard.zip : 28만건의 카드 정보. csv 파일. 492건의 사기 기록.
