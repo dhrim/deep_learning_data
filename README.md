@@ -39,3 +39,5 @@
 
 - Raccoon_yolov3_darknet_format.zip : YOLOv3 학습을 위한 Darknet 포멧의 영상과 레이블
 - Raccoon_retinanet_format.zip : Keras-Retinanet 학습을 위한 RetianNet 포멧의 영상과 레이블
+
+- commodity.zip : 20여 개의 csv. 속성 데이터. 일자 별 곡물의 시종고저가
