@@ -45,3 +45,5 @@
 - google.csv : 구글 일자 별 주가. 
 
 - creditcard.zip : 28만건의 카드 정보. csv 파일. 492건의 사기 기록.
+
+- kc_house_data.csv : 가격 에측을 위한 집값 데이터. 29개의 속성. 일반 속성 데이터.
