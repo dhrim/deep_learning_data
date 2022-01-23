@@ -47,3 +47,6 @@
 - creditcard.zip : 28만건의 카드 정보. csv 파일. 492건의 사기 기록.
 
 - kc_house_data.csv : 가격 에측을 위한 집값 데이터. 29개의 속성. 일반 속성 데이터.
+
+- movie_rating.csv.zip : 추천 작업 위한 영화 평가. 2600만건
+- movie_rating_samll.csv : small 추천 작업 위한 영화 평가. 1만건
