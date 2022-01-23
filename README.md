@@ -50,3 +50,4 @@
 
 - movie_rating.csv.zip : 추천 작업 위한 영화 평가. 2600만건
 - movie_rating_samll.csv : small 추천 작업 위한 영화 평가. 1만건
+- movie_metadata.csv : movie_rating.csv, movie_rating_small.csv의 메타데이터
