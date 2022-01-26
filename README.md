@@ -51,3 +51,5 @@
 - movie_rating.csv.zip : 추천 작업 위한 영화 평가. 2600만건
 - movie_rating_samll.csv : small 추천 작업 위한 영화 평가. 1만건
 - movie_metadata.csv : movie_rating.csv, movie_rating_small.csv의 메타데이터
+
+- environmental_sound.zip : 10개 카테고리 각 40개씩 wav파일. 소리 분류용.
